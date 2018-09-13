@@ -11,19 +11,29 @@
 
 
 	<dependencies>
-		<!-- spring-mvc -->
-<!-- 		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-context</artifactId>
+		<dependency>
+			<groupId>com.tfsoft</groupId>
+			<artifactId>console-biz</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 		<dependency>
-			<groupId>org.springframework</groupId>
-			<artifactId>spring-beans</artifactId>
-		</dependency> -->
+			<groupId>com.tfsoft</groupId>
+			<artifactId>console-bizPojo</artifactId>
+			<version>0.0.1-SNAPSHOT</version>
+		</dependency>
+		<!-- spring-mvc -->
+		<!-- <dependency> <groupId>org.springframework</groupId> <artifactId>spring-context</artifactId> 
+			</dependency> <dependency> <groupId>org.springframework</groupId> <artifactId>spring-beans</artifactId> 
+			</dependency> -->
 		<!-- 有了这一个，就不用上面两个了。 -->
 		<dependency>
 			<groupId>org.springframework</groupId>
 			<artifactId>spring-webmvc</artifactId>
+		</dependency>
+		<!-- Jackson Json处理工具包 -->
+		<dependency>
+			<groupId>com.fasterxml.jackson.core</groupId>
+			<artifactId>jackson-databind</artifactId>
 		</dependency>
 	</dependencies>
 
