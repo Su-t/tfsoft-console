@@ -10,7 +10,6 @@
 		<module>console-deploy</module>
 		<module>console-mvc</module>
 		<module>console-biz</module>
-		<module>console-pojo</module>
 		<module>console-bizPojo</module>
 		<module>console-mapper</module>
 	</modules>

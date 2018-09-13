@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>欢迎来到taotao-console</title>
+<title>欢迎来到st</title>
 </head>
 <body>
-<h1>看到这个页面，说明taotao-console已经成功运行</h1>
+<h1>看到这个页面，说明st-console已经成功运行</h1>
 </body>
 </html>
